@@ -17,7 +17,7 @@ window.onload = function() {
     
     function preload() {
         // Load an image and call it 'logo'.
-        game.load.image('grass','assets/grass.png');
+        game.load.image('grass','assets/Grass.png');
         game.load.spritesheet('player','assets/DogeSprite.png',70,77);
         game.load.spritesheet('playertwo','assets/WeegeeCatcherSheet.png',40,60);
         game.load.audio('boop','assets/grab.php.mp3');
